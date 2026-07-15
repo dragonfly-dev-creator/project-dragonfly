@@ -1,0 +1,9 @@
+[package]
+name = "project-dragonfly"
+version = "0.1.0"
+edition = "2021"
+authors = ["dragonfly-dev-creator"]
+description = A local, privacy-first text-retrieval engine utilizing an amnesiac memory-mapped pipeline.
+
+[dependencies]
+ Future cryptographic dependencies like zeroize or chacha20 can be added here
